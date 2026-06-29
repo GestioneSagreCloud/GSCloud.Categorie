@@ -1,1 +1,1 @@
-# GSCloud.Categorie
+# GSCloud.OperazioniAvvio
